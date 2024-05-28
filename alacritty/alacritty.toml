@@ -1,0 +1,17 @@
+import = [
+    "~/.config/alacritty/themes/themes/aura.toml"
+]
+
+live_config_reload = true
+
+[window]
+padding = {x = 30,y = 30}
+opacity = 0.5
+blur = true
+
+[scrolling]
+history = 10000
+
+[font]
+normal = { family = "Hack Nerd Font"}
+size = 16 
